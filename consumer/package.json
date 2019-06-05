@@ -23,6 +23,7 @@
     "helmet": "^3.13.0",
     "passport": "^0.4.0",
     "passport-oauth": "^1.0.0",
-    "sync-request": "^6.0.0"
+    "sync-request": "^6.0.0",
+    "js-yaml": ">=3.13.1"
   }
 }
